@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body,html{
+	height: 100%;
+	width: 100%;
+	box-sizing: border-box;
+}
+#app{
+	height: 100%;
+}
+li{
+	list-style: none;
+}
+.typearea{
+	width: 78.75rem;
+	margin: 0 auto;
+}
+a{
+	font-style: normal;
+	color: #fff;
+	text-decoration: none;
+}
+em{
+	font-style: normal;
+}
